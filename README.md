@@ -1,5 +1,5 @@
 # tcp-based-threaded-server-for-each-client
-A new server thread is created for every new client connection (upto 3, can be changed). The demo client also spawns three client threads to simulate multiple clients.
+A new server thread is created for every new client connection (upto 3, can be changed). Server threads also log whatever data that is received. Logger has singleton implementation. The demo client also spawns three client threads to simulate multiple clients.
 
 TCP based implementation
 
