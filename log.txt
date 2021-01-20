@@ -1,0 +1,25 @@
+Server Opened at 12:31:17 20/01/2021
+
+
+ECU_Client1 connnected
+
+
+ECU_Client3 connnected
+
+
+ECU_Client2 connnected
+
+ECU_Client1  12  13  14  15  16  17  18  19  20  21  12:31:17 20/01/2021
+ECU_Client3  39  40  41  42  43  44  45  46  47  48  12:31:17 20/01/2021
+ECU_Client2  21  22  23  24  25  26  27  28  29  30  12:31:17 20/01/2021
+ECU_Client1  12  13  14  15  16  17  18  19  20  21  12:31:20 20/01/2021
+ECU_Client2  21  22  23  24  25  26  27  28  29  30  12:31:20 20/01/2021
+ECU_Client3  39  40  41  42  43  44  45  46  47  48  12:31:20 20/01/2021
+
+ECU_Client1  disconnected
+
+ECU_Client2  disconnected
+
+ECU_Client3  disconnected
+
+Server Closed at 12:31:23 20/01/2021
